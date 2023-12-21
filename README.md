@@ -1,2 +1,2 @@
 # SpamDetectionML
-A Machine Learning Model capable of detecting messages as they are spam or not.
+A Machine Learning Model capable of detecting messages that is if they are SPAM or NOT.
